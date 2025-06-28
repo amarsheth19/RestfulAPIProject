@@ -10,7 +10,7 @@ A Node.js website that dynamically queries a MySQL database based on the URL pat
 ## Technologies
 - Node.js
 - MySQL
-- Express (if used)
+- Express 
 
 ## Notes
 Set up the MySQL database and connection credentials before running the app.
